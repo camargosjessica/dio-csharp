@@ -1,0 +1,48 @@
+C:\Users\camar\Documents\Projects\Bootcamp GFT\07 - Primeiros passos com .NET e C#\projeto\Revisao\bin\Debug\net5.0\Revisao.exe
+C:\Users\camar\Documents\Projects\Bootcamp GFT\07 - Primeiros passos com .NET e C#\projeto\Revisao\bin\Debug\net5.0\Revisao.deps.json
+C:\Users\camar\Documents\Projects\Bootcamp GFT\07 - Primeiros passos com .NET e C#\projeto\Revisao\bin\Debug\net5.0\Revisao.runtimeconfig.json
+C:\Users\camar\Documents\Projects\Bootcamp GFT\07 - Primeiros passos com .NET e C#\projeto\Revisao\bin\Debug\net5.0\Revisao.runtimeconfig.dev.json
+C:\Users\camar\Documents\Projects\Bootcamp GFT\07 - Primeiros passos com .NET e C#\projeto\Revisao\bin\Debug\net5.0\Revisao.dll
+C:\Users\camar\Documents\Projects\Bootcamp GFT\07 - Primeiros passos com .NET e C#\projeto\Revisao\bin\Debug\net5.0\ref\Revisao.dll
+C:\Users\camar\Documents\Projects\Bootcamp GFT\07 - Primeiros passos com .NET e C#\projeto\Revisao\bin\Debug\net5.0\Revisao.pdb
+C:\Users\camar\Documents\Projects\Bootcamp GFT\07 - Primeiros passos com .NET e C#\projeto\Revisao\obj\Debug\net5.0\Revisao.csprojAssemblyReference.cache
+C:\Users\camar\Documents\Projects\Bootcamp GFT\07 - Primeiros passos com .NET e C#\projeto\Revisao\obj\Debug\net5.0\Revisao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\camar\Documents\Projects\Bootcamp GFT\07 - Primeiros passos com .NET e C#\projeto\Revisao\obj\Debug\net5.0\Revisao.AssemblyInfoInputs.cache
+C:\Users\camar\Documents\Projects\Bootcamp GFT\07 - Primeiros passos com .NET e C#\projeto\Revisao\obj\Debug\net5.0\Revisao.AssemblyInfo.cs
+C:\Users\camar\Documents\Projects\Bootcamp GFT\07 - Primeiros passos com .NET e C#\projeto\Revisao\obj\Debug\net5.0\Revisao.csproj.CoreCompileInputs.cache
+C:\Users\camar\Documents\Projects\Bootcamp GFT\07 - Primeiros passos com .NET e C#\projeto\Revisao\obj\Debug\net5.0\Revisao.dll
+C:\Users\camar\Documents\Projects\Bootcamp GFT\07 - Primeiros passos com .NET e C#\projeto\Revisao\obj\Debug\net5.0\ref\Revisao.dll
+C:\Users\camar\Documents\Projects\Bootcamp GFT\07 - Primeiros passos com .NET e C#\projeto\Revisao\obj\Debug\net5.0\Revisao.pdb
+C:\Users\camar\Documents\Projects\Bootcamp GFT\07 - Primeiros passos com .NET e C#\projeto\Revisao\obj\Debug\net5.0\Revisao.genruntimeconfig.cache
+C:\Users\camar\Documents\Projects\Bootcamp GFT\Revisao\bin\Debug\net5.0\Revisao.exe
+C:\Users\camar\Documents\Projects\Bootcamp GFT\Revisao\bin\Debug\net5.0\Revisao.deps.json
+C:\Users\camar\Documents\Projects\Bootcamp GFT\Revisao\bin\Debug\net5.0\Revisao.runtimeconfig.json
+C:\Users\camar\Documents\Projects\Bootcamp GFT\Revisao\bin\Debug\net5.0\Revisao.runtimeconfig.dev.json
+C:\Users\camar\Documents\Projects\Bootcamp GFT\Revisao\bin\Debug\net5.0\Revisao.dll
+C:\Users\camar\Documents\Projects\Bootcamp GFT\Revisao\bin\Debug\net5.0\ref\Revisao.dll
+C:\Users\camar\Documents\Projects\Bootcamp GFT\Revisao\bin\Debug\net5.0\Revisao.pdb
+C:\Users\camar\Documents\Projects\Bootcamp GFT\Revisao\obj\Debug\net5.0\Revisao.csprojAssemblyReference.cache
+C:\Users\camar\Documents\Projects\Bootcamp GFT\Revisao\obj\Debug\net5.0\Revisao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\camar\Documents\Projects\Bootcamp GFT\Revisao\obj\Debug\net5.0\Revisao.AssemblyInfoInputs.cache
+C:\Users\camar\Documents\Projects\Bootcamp GFT\Revisao\obj\Debug\net5.0\Revisao.AssemblyInfo.cs
+C:\Users\camar\Documents\Projects\Bootcamp GFT\Revisao\obj\Debug\net5.0\Revisao.csproj.CoreCompileInputs.cache
+C:\Users\camar\Documents\Projects\Bootcamp GFT\Revisao\obj\Debug\net5.0\Revisao.dll
+C:\Users\camar\Documents\Projects\Bootcamp GFT\Revisao\obj\Debug\net5.0\ref\Revisao.dll
+C:\Users\camar\Documents\Projects\Bootcamp GFT\Revisao\obj\Debug\net5.0\Revisao.pdb
+C:\Users\camar\Documents\Projects\Bootcamp GFT\Revisao\obj\Debug\net5.0\Revisao.genruntimeconfig.cache
+C:\Users\camar\Documents\Projects\Revisao\bin\Debug\net5.0\Revisao.exe
+C:\Users\camar\Documents\Projects\Revisao\obj\Debug\net5.0\Revisao.csprojAssemblyReference.cache
+C:\Users\camar\Documents\Projects\Revisao\obj\Debug\net5.0\Revisao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\camar\Documents\Projects\Revisao\obj\Debug\net5.0\Revisao.AssemblyInfoInputs.cache
+C:\Users\camar\Documents\Projects\Revisao\obj\Debug\net5.0\Revisao.AssemblyInfo.cs
+C:\Users\camar\Documents\Projects\Revisao\obj\Debug\net5.0\Revisao.csproj.CoreCompileInputs.cache
+C:\Users\camar\Documents\Projects\Revisao\obj\Debug\net5.0\Revisao.dll
+C:\Users\camar\Documents\Projects\Revisao\obj\Debug\net5.0\ref\Revisao.dll
+C:\Users\camar\Documents\Projects\Revisao\obj\Debug\net5.0\Revisao.pdb
+C:\Users\camar\Documents\Projects\Revisao\bin\Debug\net5.0\Revisao.deps.json
+C:\Users\camar\Documents\Projects\Revisao\bin\Debug\net5.0\Revisao.runtimeconfig.json
+C:\Users\camar\Documents\Projects\Revisao\bin\Debug\net5.0\Revisao.runtimeconfig.dev.json
+C:\Users\camar\Documents\Projects\Revisao\bin\Debug\net5.0\Revisao.dll
+C:\Users\camar\Documents\Projects\Revisao\bin\Debug\net5.0\ref\Revisao.dll
+C:\Users\camar\Documents\Projects\Revisao\bin\Debug\net5.0\Revisao.pdb
+C:\Users\camar\Documents\Projects\Revisao\obj\Debug\net5.0\Revisao.genruntimeconfig.cache
